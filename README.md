@@ -28,9 +28,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50" height="50"/>
 </p>
 
 ### Design & Other Tools  
