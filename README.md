@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" height="50"/>
 </p>
 
 ### Design & Other Tools  
