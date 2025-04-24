@@ -55,6 +55,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mimtachowdhury)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/momentsbymimta)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=codepen)](#) _(Coming Soon!)_
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=codepen)](https://mimtachowdhury.netlify.app/)
 
 </div>
